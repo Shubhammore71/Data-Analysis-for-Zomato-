@@ -1,6 +1,3 @@
-Of course\! Here is a more detailed and professionally structured version of your `README.md` file. This enhanced version provides more context for each business problem, explains the project's structure more clearly, and is tailored to showcase your skills for a product analysis role.
-
------
 
 # Zomato Data Analysis: A Deep Dive with SQL
 
@@ -53,6 +50,7 @@ The project is organized as follows:
 ## Data Model and ERD
 
 The database follows a schema designed to capture the core entities of a food delivery platform: customers, restaurants, orders, riders, and deliveries. The relationships between these entities are visualized in the ERD below.
+![ERD](erd.png)
 
 ## Database Setup and Initialization
 
