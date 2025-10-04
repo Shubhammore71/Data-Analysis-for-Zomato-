@@ -15,15 +15,15 @@ This repository contains the complete project, from database setup and data clea
 
 ## Table of Contents
 
-1.  [Project Structure](https://www.google.com/search?q=%23project-structure)
-2.  [Tools and Technologies](https://www.google.com/search?q=%23tools-and-technologies)
-3.  [Data Model and ERD](https://www.google.com/search?q=%23data-model-and-erd)
-4.  [Database Setup and Initialization](https://www.google.com/search?q=%23database-setup-and-initialization)
-5.  [Data Cleaning](https://www.google.com/search?q=%23data-cleaning)
-6.  [Business Problems and SQL Solutions](https://www.google.com/search?q=%23business-problems-and-sql-solutions)
-7.  [Conclusion](https://www.google.com/search?q=%23conclusion)
-8.  [Contributors](https://www.google.com/search?q=%23contributors)
-9.  [Disclaimer](https://www.google.com/search?q=%23disclaimer)
+1.  [Project Structure]
+2.  [Tools and Technologies]
+3.  [Data Model and ERD]
+4.  [Database Setup and Initialization]
+5.  [Data Cleaning]
+6.  [Business Problems and SQL Solutions]
+7.  [Conclusion]
+8.  [Contributors]
+9.  [Disclaimer]
 
 ## Project Structure
 
